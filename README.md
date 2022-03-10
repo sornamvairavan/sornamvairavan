@@ -1,4 +1,4 @@
-### Hi there! I'm Sornam, an aspiring software developer 👋
+### Hi there! I'm Sornam, a software developer 👋
 
 
 <!--
